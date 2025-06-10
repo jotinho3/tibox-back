@@ -86,6 +86,14 @@ O servidor estará disponível em [http://localhost:3001](http://localhost:3001)
 
 ---
 
+## ☁️ Hospedagem
+
+- **Banco de Dados:** A instância do banco de dados é PostgreSQL e está hospedada na [Railway](https://railway.app/).
+- **Servidor Back-end:** O aplicativo servidor está hospedado no [Render](https://render.com/) como um Web Service, disponível em:  
+  [https://tibox-back.onrender.com](https://tibox-back.onrender.com)
+
+---
+
 ## 📚 Observações
 
 - O back-end está preparado para integração total com o front-end via API REST.
